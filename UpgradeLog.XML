@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="driveview">
+</Property><Property Name="Solution File" Value="C:\Domains\VisualStudioProjects\driveview\driveview\driveview.sln">
+</Property><Property Name="User Options File" Value="C:\Domains\VisualStudioProjects\driveview\driveview\driveview.suo">
+</Property><Property Name="Date" Value="21. juni 2008">
+</Property><Property Name="Time" Value="19:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="driveview.sln" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\driveview.sln">
+</Event><Event ErrorLevel="0" Project="" Source="driveview.suo" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\driveview.suo">
+</Event><Event ErrorLevel="0" Project="driveview" Source="driveview.csproj" Description="Project file successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\driveview.csproj">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Form1.cs" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Program.cs" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_hd.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_hd.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_network.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_network.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_norootdir.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_norootdir.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_optic.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_optic.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_ram.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_ram.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_removeable.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_removeable.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\drives_unknown.png" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\drives_unknown.png">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Resources\amite.ico" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Resources\amite.ico">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Form1.resx" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="driveview" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Domains\VisualStudioProjects\driveview\driveview\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="driveview" Source="driveview.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="driveview" Source="driveview.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="driveview.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="driveview.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="driveview" Source="driveview.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

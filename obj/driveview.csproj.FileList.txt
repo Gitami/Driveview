@@ -1,0 +1,16 @@
+bin\Debug\driveview.exe
+bin\Debug\driveview.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\driveview.Form1.resources
+obj\Debug\driveview.Properties.Resources.resources
+obj\Debug\driveview.csproj.GenerateResource.Cache
+obj\Debug\driveview.exe
+obj\Debug\driveview.pdb
+bin\Release\driveview.exe
+bin\Release\driveview.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\driveview.Form1.resources
+obj\Release\driveview.Properties.Resources.resources
+obj\Release\driveview.csproj.GenerateResource.Cache
+obj\Release\driveview.exe
+obj\Release\driveview.pdb
